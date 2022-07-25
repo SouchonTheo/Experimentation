@@ -3,3 +3,7 @@
 
 # JS
 node_modules
+
+# Be careful not to reveal any information
+.env
+config.js
